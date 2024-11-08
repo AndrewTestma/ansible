@@ -1,0 +1,9 @@
+---
+
+# 自动创建虚拟机
+- name: 自动创建虚拟机
+  hosts: all
+  remote_user: root
+
+#- name: 更新虚拟机内部源信息
+
